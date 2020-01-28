@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Pineland Radio Club"
-  avatar : "/assets/images/radio_tower_graphic-PRC-02-INVIS.png"
+  avatar : "/assets/images/radio_tower_graphic-PRC-100x207.png"
   bio    : "Amature Radio, QRP, Pineland!"
   links:
     - label: "Website"
