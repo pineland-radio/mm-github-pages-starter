@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Pineland Radio Club"
+  avatar : "/assets/images/radio_tower_graphic-PRC-100x207.png"
+  bio    : "Amature Radio, QRP, Pineland!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
