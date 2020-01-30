@@ -1,19 +1,20 @@
 ---
 title: "Site Standup"
-date: 
+date: 2020-01-19T15:34:30-04:00
 categories:
   - blog
 tags:
   - update
 ---
-This is the first post on this site. This website will server the Pineland Radio Club.
+This website will serve the Pineland Radio Club.
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+This is the initial post.
 
 BT
 
-**Disclaimer:**
+{% capture notice--primary %}
+
+Disclaimer:
 ==========
 
 Last updated: January 29, 2020
@@ -138,7 +139,6 @@ The Company will not be liable to You or anyone else for any decision made or
 action taken in reliance on the information given by the Service or for any
 consequential, special or similar damages, even if advised of the possibility
 of such damages.
-
 Contact Us  
 ----------
 
@@ -146,5 +146,5 @@ If you have any questions about this Disclaimer, You can contact Us:
 
   * By email: pineland.radio@gmail.com
   * 
-
-{: .notice--primary}
+{% endcapture %}
+<div class="notice--primary">{{ notice--primary | markdownify }}</div>
