@@ -5,7 +5,16 @@ categories:
   - blog
 tags:
   - update
+excerpt: "GO!"
+header:
+  overlay_image: /assets/images/splash/splash-green-light-jump-1600x586.jpg
+  overlay_filter: rgba(28, 93, 37, 0.7)
+  caption: "Photo credit: [**Free Pineland News**](https://pineland.radio)"
+  actions:
+    - label: "More Info"
+      url: "https://pineland.radio"
 ---
+
 This website will serve the Pineland Radio Club.
 
 This is the initial post.
@@ -145,6 +154,6 @@ Contact Us
 If you have any questions about this Disclaimer, You can contact Us:
 
   * By email: pineland.radio@gmail.com
-  * 
+
 {% endcapture %}
 <div class="notice--primary">{{ notice--primary | markdownify }}</div>
