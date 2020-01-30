@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Pineland Radio Club"
   avatar : "/assets/images/radio_tower_graphic-PRC-100x207.png"
-  bio    : "Amature Radio, QRP, Pineland!"
+  bio    : "Low Power Amature Radio (QRP)"
   links:
     - label: "Pineland"
       icon: "fas fa-fw fa-map-marker-alt"
