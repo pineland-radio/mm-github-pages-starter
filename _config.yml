@@ -63,18 +63,19 @@ author:
   avatar : "/assets/images/radio_tower_graphic-PRC-100x207.png"
   bio    : "Amature Radio, QRP, Pineland!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Pineland"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://en.wikipedia.org/wiki/United_States_Army_Special_Forces_selection_and_training#Pineland"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pinelandradio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pineland-radio"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pineland.radio"
+
 
 footer:
   links:
