@@ -26,7 +26,7 @@ This is the initial post.
 BT
 
 {% capture notice--primary %}
-{% include toc icon="cog" title="My Table of Contents" %}
+{% include toc icon="cog" title="Disclaimer ToC" %}
 
 Disclaimer:
 ==========
