@@ -3,7 +3,7 @@ title: "First HF Antenna Arrives"
 categories:
   - Blog
 tags:
-  - Eqiupment
+  - Equipment
   - standard
 ---
 
