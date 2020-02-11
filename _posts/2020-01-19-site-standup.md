@@ -13,6 +13,10 @@ header:
   actions:
     - label: "More Info"
       url: "https://pineland.radio"
+toc: true
+toc_label: "Disclaimer ToC"
+toc_icon: "cog"
+toc_sticky: "false"      
 ---
 
 This website will serve the Pineland Radio Club.
@@ -22,6 +26,7 @@ This is the initial post.
 BT
 
 {% capture notice--primary %}
+{% include toc icon="cog" title="Disclaimer ToC" %}
 
 Disclaimer:
 ==========

@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+The Pineland Radio Club (PRC) is a notional organization.  It is not even a club, existing as nothing more that a place holder for the site owner to blog about radio experiences.  Radio experiences and interests likely including a dog and rucking about.  Hoping to combine [QRP][2] radio and going about on a mule or on a boat.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+KC3OEB (the site owner) received the US [Technicians license][1] in OCT 2019 and [General License][1] in DEC 2019.  Prior to this study, was trained by the US Army in the 1980's to operate HF radio's and Morse Code.
+
+[1]: http://www.arrl.org/ham-radio-licenses
+[2]: https://en.wikipedia.org/wiki/QRP_operation
