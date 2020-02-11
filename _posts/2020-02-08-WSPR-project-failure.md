@@ -1,5 +1,5 @@
 ---
-title: "Project Failure"
+title: "WSPR Project Failure"
 categories:
   - Blog
 tags:
