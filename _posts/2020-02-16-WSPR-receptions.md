@@ -84,7 +84,7 @@ Their educational videos were a great guide to getting the configuration portion
 {% include gallery id="gallery2" caption="WSPR Project Equipment and Software" %}
 </figure>
 
-[1]: RSPIA https://www.sdrplay.com/rsp1a/
+[1]: https://www.sdrplay.com/rsp1a/
 [2]: https://www.sdrplay.com/downloads/
 [3]: https://www.youtube.com/channel/UChintPJZoKbKUeaAOWpIOgg
 [4]: https://www.youtube.com/channel/UCFqL7rX68aatRB0QESJLcqw
