@@ -57,7 +57,7 @@ gallery2:
 
 Even with the failure of the WSPR QRPGuys kit build (see previous post) the PRC moves forward with configuring the receiving end of WSPR signals.  SDRUno and WSJT-X software were configured such that over a 24 hour test period, weak digital signals were decoded from all over the world as shown on the gallery maps. 
  
-Reception reports were uploaded to WSPRnet.  This website recieves the output from WSJT-X and plots it on a world map.  The 20 meter and 40 meter bands were the focus of the listening period although a brief listen on the 80 meter band yielding a couple successful reports.
+Reception reports were uploaded to [WSPRnet][7].  This website recieves the output from WSJT-X and plots it on a world map.  The 20 meter and 40 meter bands were the focus of the listening period although a brief listen on the 80 meter band yielding a couple successful reports.
  
 <figure>
 {% include gallery id="gallery" caption="WSPR Project 24 Hour Reception Test" %}
@@ -90,4 +90,5 @@ Their educational videos were a great guide to getting the configuration portion
 [4]: https://www.youtube.com/channel/UCFqL7rX68aatRB0QESJLcqw
 [5]: https://vac.muzychenko.net/en/
 [6]: https://physics.princeton.edu/pulsar/K1JT/wsjtx.html
+[7]: http://wsprnet.org/drupal/wsprnet/map
 
