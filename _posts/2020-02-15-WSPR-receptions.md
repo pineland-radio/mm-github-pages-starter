@@ -7,6 +7,7 @@ tags:
   - Projects
   - DIY
   - Success
+  - Operations
 gallery:
   - url: /assets/images/gallery-002/first_WSPR_receive-001.JPG
     image_path: /assets/images/gallery-002/first_WSPR_receive-001.JPG
