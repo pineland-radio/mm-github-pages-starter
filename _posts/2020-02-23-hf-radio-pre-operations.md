@@ -72,7 +72,7 @@ With fair weather for the weekend the antenna was installed.  The full 130 feet 
 {% include gallery id="gallery3" caption="EFHW 8010 Antenna Installation" %}
 </figure>
 
-The Yeasu FT-891 was powered on for the first time at:  **232345Z SUN 20**  No transmissions were attempted while a study is made to determine the initial settings and not damage the radio. Reception from the new antenna was incredible. The FT-891 has a great sound.
+The Yeasu FT-891 was powered on for the first time at:  **232345Z FEB 20**  No transmissions were attempted while a study is made to determine the initial settings and not damage the radio. Reception from the new antenna was incredible. The FT-891 has a great sound.
 
 Reception was tested on the [SDR RSP1A][4].  A huge increase in signals was noted as compared to the discone antenna.
 {: .notice--success}
