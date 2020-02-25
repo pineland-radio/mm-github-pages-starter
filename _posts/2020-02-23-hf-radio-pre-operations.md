@@ -2,7 +2,7 @@
 title: "HF Radio Pre-Operations"
 categories:
   - Blog
-  - Equpment
+  - Equipment
 tags:
   - Equipment
   - Operations
