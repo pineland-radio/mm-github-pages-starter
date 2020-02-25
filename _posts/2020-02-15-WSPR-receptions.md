@@ -55,7 +55,8 @@ gallery2:
     alt: "WSJT-X decoding WSPR Signals"
     title: "WSJT-X decoding WSPR Signals"
 ---
-
+`151944Z FEB 20`
+---
 Even with the failure of the WSPR QRPGuys kit build (see previous post) the PRC moves forward with configuring the receiving end of WSPR signals.  SDRUno and WSJT-X software were configured such that over a 24 hour test period, weak digital signals were decoded from all over the world as shown on the gallery maps. 
  
 Reception reports were uploaded to [WSPRnet][7].  This website recieves the output from WSJT-X and plots it on a world map.  The 20 meter and 40 meter bands were the focus of the listening period although a brief listen on the 80 meter band yielding a couple successful reports.
