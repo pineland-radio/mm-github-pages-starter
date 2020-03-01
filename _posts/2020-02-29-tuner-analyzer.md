@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "MFJ-945E and NanoVNA Acquired"
 categories:
   - Blog
   - Equipment
