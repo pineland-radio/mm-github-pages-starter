@@ -49,7 +49,7 @@ The *sooner-than-expected* acquisition of the HF Transceiver [(Yeasu FT-891)][1]
 
 1. The already acquired [EFHW-8010 Antenna][2] needed to be installed.
 2. A straight key was needed for CW (Morse Code)
-3. An upgraded DC power source.  A replacement to the two Lead-Acid batteries that powered the [Yeasu FT-7900][3].  
+3. An upgraded DC power source (See "Power Supply Workings" below).  A replacement to the two Lead-Acid batteries that powered the [Yeasu FT-7900][3].  
 
 At max power (100W), the Yeasu FT-891 was close to maxing the amperage available on the largest of the two batteries.
 {: .notice--warning}
@@ -59,6 +59,29 @@ The Morse Code key arrived first.  The familiar F-37 attached to F-45 Leg Clamp 
 <figure>
 {% include gallery id="gallery" caption="Military Leg Key" %}
 </figure>
+
+**Power Supply Workings**
+
+**Yeasu FT-891 - Current draw (Actual)**
+
+**Recieve= 1.03a**
+
+**Transmit:**
+
+| WATTS |  AMPS |
+|:-----:|:-----:|
+|   5w  |  5.7a |
+|  10w  |  6.9a |
+|  20w  |  8.3a |
+|  30w  |  9.3a |
+|  40w  | 10.4a |
+|  50w  | 11.5a |
+|  60w  | 12.2a |
+|  70w  | 12.0a |
+|  80w  | 13.7a |
+|  90w  | 14.4a |
+|  100w | 15.2a |
+
 
 A new power supply was purchased off the local market (Ham Radio Outlet).  This is the ASTRON RS-35M-AP.  The "AP" standing for Anderson Power Poles.  Having no Anderson Power Poles, or means to attach them, these were acquired through Amazon.
 
