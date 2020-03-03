@@ -45,7 +45,7 @@ gallery3:
 `291915Z FEB 20`
 ---
 
-Cautious about damaging the new **Yeasu FT-891** and wanting a means to analyze antennas a new manual antenna tuner [(MFJ-945E)][1] and [Vector Network Analyzer][2] were procured.
+Cautious about damaging the new **Yeasu FT-891** the Pineland Radio Club wanted a means to analyze antennas.  Hence, a new manual antenna tuner [(MFJ-945E)][1] and [Vector Network Analyzer][2] were procured.
 
 The [MyAntennas.com EFHW-8010][3] was advertised to be resonant on  the 80/40/30/20/17/15/12/10m bands as shown in the graphic from their website (below).  Needing to verify this, the Vector Network Analyzer aka NanoVNA was used to measure SWR between 1.7 Mhz (160 Meter band) and 29.7 Mhz (10 Meter band).
 
@@ -61,7 +61,7 @@ The results were as expected yet the SWR in the 80 meter band was worrisome and,
 {% include gallery id="gallery2" caption="Resonance Charts for Interested Bands" %}
 </figure>
 
-PRC staff are not mentally gifted and many hours of training were needed to grasp how to use a manual antenna tuner.  After-hours "remedial training" was mandated but there were no quitters.  The first positive results were gained only after grasping whether or not the tuner was in **By-Pass mode** or not and figuring out the use of the "Inductance" knob and how it relates to noise levels.  Example of tuning out the SWR in the 80 Meter band are below and are a proud achievement of the PRC.
+PRC staff are not mentally gifted and many hours of training were needed to grasp how to use a manual antenna tuner.  After-hours "remedial training" was mandated but there were no quitters.  The first positive results were gained only after grasping whether or not the tuner was in **By-Pass mode** and figuring out the use of the "Inductance" knob.  Specifically how it relates to noise levels.  Example of tuning out the SWR in the 80 Meter band are below and are a proud achievement of the PRC.
 
 <figure>
 {% include gallery id="gallery3" caption="Manual Tuning Results" %}
