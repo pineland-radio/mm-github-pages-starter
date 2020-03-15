@@ -72,6 +72,7 @@ gallery3:
 ---
 `151552Z MAR 20`
 ---
+
 Time to take stock of the PRC's gear and performance so far.
 
 Poor performance was shown in the 10 meter band with the Yaseau FT-891.  Voice comms on SSB weren't audible to fellow operators on the Saturday NEMARC net.  Some stations in the net are less than 5 miles away.
