@@ -87,7 +87,7 @@ No progress has been made in DIY production.  [Noted previously][4], this defici
 
 ![Digital Modes](/assets/images/gallery-005/digital_modes-001.JPG){:height="75%" width="75%"}
 
-WSPR power was set to 5 watts - lowest possible on the FT-981 - the results were surprising.
+WSPR power was set to 5 watts - lowest possible on the FT-891 - the results were surprising.
 
 <figure>
 {% include gallery id="gallery" caption="WSPR Results" %}
