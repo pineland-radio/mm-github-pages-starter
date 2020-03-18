@@ -1,5 +1,5 @@
 ---
-title: "WSPR Project Failure"
+title: "082318Z FEB 20"
 categories:
   - Blog
 tags:
@@ -24,6 +24,8 @@ gallery:
     image_path: /assets/images/gallery-001/torroid01-x640.jpg
     alt: "Winding a Torroid"
     title: "Windings on a Torroid"
+---
+`WSPR Project Failure`
 ---
 
 The Pineland Radio Club's Test Lab and Production Facility (PRC-TL-PF) experienced its first setback today when the [QRPGuys EZ WSPR Pi Raspberry Pi module][1] build failed to achieve any results.

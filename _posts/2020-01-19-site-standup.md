@@ -1,5 +1,5 @@
 ---
-title: "Site Standup"
+title: "192035Z JAN 20"
 date: 2020-01-19T15:34:30-04:00
 categories:
   - blog
@@ -17,6 +17,8 @@ toc: true
 toc_label: "Disclaimer ToC"
 toc_icon: "cog"
 toc_sticky: "false"      
+---
+`ANGUS REPORT`
 ---
 
 This website will serve the Pineland Radio Club.

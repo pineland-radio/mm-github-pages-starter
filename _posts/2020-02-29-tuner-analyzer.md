@@ -1,5 +1,5 @@
 ---
-title: "MFJ-945E and NanoVNA Acquired"
+title: "291915Z FEB 20"
 categories:
   - Blog
   - Equipment
@@ -42,7 +42,7 @@ gallery3:
     alt: "80 Meter band AFTER tuning with the MFJ-945E"
     title: "80 Meter band AFTER tuning with the MFJ-945E"
 ---
-`291915Z FEB 20`
+`MFJ-945E and NanoVNA Acquired`
 ---
 
 Cautious about damaging the new **Yeasu FT-891** the Pineland Radio Club wanted a means to analyze antennas.  Hence, a new manual antenna tuner [(MFJ-945E)][1] and [Vector Network Analyzer][2] were procured.

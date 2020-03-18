@@ -1,5 +1,5 @@
 ---
-title: "HF Radio Pre-Operations"
+title: "231833Z FEB 20"
 categories:
   - Blog
   - Equipment
@@ -43,9 +43,10 @@ gallery3:
     alt: "Antenna Installation - "
     title: "Antenna Installation - "
 ---
-`231833Z FEB 20`
+`HF OPS PREP`
 ---
-The *sooner-than-expected* acquisition of the HF Transceiver [(Yeasu FT-891)][1] initiated a flurry of activity and new new equipment purchases to put it in operation.  
+
+**HF Radio Pre-Operations:** The *sooner-than-expected* acquisition of the HF Transceiver [(Yeasu FT-891)][1] initiated a flurry of activity and new new equipment purchases to put it in operation.  
 
 1. The already acquired [EFHW-8010 Antenna][2] needed to be installed.
 2. A straight key was needed for CW (Morse Code)

@@ -1,5 +1,5 @@
 ---
-title: "Mid-March Performance & Inspection"
+title: 151552Z MAR 20
 categories:
   - Blog
   - Equipment
@@ -27,10 +27,6 @@ gallery:
     image_path: /assets/images/gallery-005/whspr-005x800.jpg
     alt: "WSPR Results 05"
     title: "WSPR Results 05"
-  - url: /assets/images/gallery-005/whspr-006x800.jpg
-    image_path: /assets/images/gallery-005/whspr-006x800.jpg
-    alt: "WSPR Results 06"
-    title: "WSPR Results 06"
 gallery2:
   - url: /assets/images/gallery-005/march_inpection-002x800.jpg
     image_path: /assets/images/gallery-005/march_inpection-002x800.jpg
@@ -70,12 +66,12 @@ gallery3:
     alt: "Realtime Clock Module DS3231"
     title: "Realtime Clock Module DS3231"
 ---
-`151552Z MAR 20`
+`Mid-March Performance & Inspection`
 ---
 
-Time to take stock of the PRC's gear and performance so far.
+Time to take stock of the PRC's gear and performance so far.   After six months of licensed operations and manic gear acquisitions it was a good idea to lay out the big chunks and see what's what.
 
-Poor performance was shown in the 10 meter band with the Yaseau FT-891.  Voice comms on SSB weren't audible to fellow operators on the Saturday NEMARC net.  Some stations in the net are less than 5 miles away.
+**WEAKNESS** Poor performance was shown in the 10 meter band with the Yaseau FT-891.  Voice comms on SSB weren't audible to fellow operators on the Saturday [NEMARC][3] net.  Some stations in the net are less than 5 miles away.
 {: .notice--warning}
 
 The clubs first participation in a contest was also poor.  Logging only 3 QSO's and only one of these being give a DXCC (whaterver that is).
@@ -83,7 +79,11 @@ The clubs first participation in a contest was also poor.  Logging only 3 QSO's 
 
 ![SSB Contest](/assets/images/gallery-005/contest-001.JPG){:height="75%" width="75%"}
 
-With the addition of digital modes transmit capability, transmissions with QSO's were made in WSPR, FT8 and JS8-Call.
+No progress has been made in DIY production.  [Noted previously][4], this deficiency needs work to overcome.  Three QRP guys kits have arrived but assembly has not been attempted.
+{: .notice--warning}
+
+**SUCCESS** With the addition of digital modes transmit capability, transmissions with QSO's were made in WSPR, FT8 and JS8-Call.
+{: .notice--success}
 
 ![Digital Modes](/assets/images/gallery-005/digital_modes-001.JPG){:height="75%" width="75%"}
 
@@ -95,7 +95,7 @@ WSPR power was set to 5 watts - lowest possible on the FT-981 - the results were
 
 Equipment:
 
-Gear was layed out for inventory:
+Gear layed out for inventory:
 
 <figure>
 {% include gallery id="gallery2" caption="Gear Inspection" %}
@@ -109,3 +109,5 @@ The new piece of gear enabling digital modes was the Raspberry Pi.  It is used t
 
 [1]: https://www.youtube.com/channel/UC3xxr5EeFDtxnuHTWsDu2rA
 [2]: https://www.youtube.com/user/jasonoleham
+[3]: http://www.nemarc.org/index.html
+[4]: https://pineland.radio/blog/WSPR-project-failure/

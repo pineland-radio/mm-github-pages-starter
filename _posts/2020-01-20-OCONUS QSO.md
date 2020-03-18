@@ -1,5 +1,5 @@
 ---
-title: "First OCONUS QSO"
+title: "202020Z JAN 20"
 categories:
   - Blog
   - QSO
@@ -7,6 +7,8 @@ tags:
   - QSO
   - OCONUS
   - standard
+---
+`First OCONUS QSO*`
 ---
 
 | C/S  | M/H | DTG |

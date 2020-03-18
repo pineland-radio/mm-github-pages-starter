@@ -1,10 +1,12 @@
 ---
-title: "First HF Antenna Arrives"
+title: "032106Z FEB 20"
 categories:
   - Blog
 tags:
   - Equipment
   - standard
+---
+`First HF Antenna Arrives`
 ---
 
 By USPS a new antenna arrived today.  The first HF antenna for the PRC!

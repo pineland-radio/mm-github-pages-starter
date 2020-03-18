@@ -1,5 +1,5 @@
 ---
-title: "First HF Transceiver"
+title: "161733Z FEB 20"
 categories:
   - Blog
 tags:
@@ -11,8 +11,9 @@ gallery:
     alt: "First HF Radio - Yeasu FT-891"
     title: "First HF Radio - Yeasu FT-891"
 ---
-`161733Z FEB 20`
+`First HF Transceiver`
 ---
+
 The Club's **[First HF Transceiver](#)** was purchased today.  A [Yeasu FT-891][1].  Used but in excellent condion; complete and still in it's original box. The unit was purchased from a fellow operator in the [NEWMARC Radio Club][2].
 {: .notice--success}
 
