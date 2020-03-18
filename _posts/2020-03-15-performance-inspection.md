@@ -66,7 +66,7 @@ gallery3:
     alt: "Realtime Clock Module DS3231"
     title: "Realtime Clock Module DS3231"
 ---
-`Mid-March Performance & Inspection`
+`6 Month Performance Appraisal & Inspection`
 ---
 
 Time to take stock of the PRC's gear and performance so far.   After six months of licensed operations and manic gear acquisitions it was a good idea to lay out the big chunks and see what's what.
