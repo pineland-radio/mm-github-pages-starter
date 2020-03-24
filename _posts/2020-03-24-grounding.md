@@ -57,7 +57,7 @@ Adding suitable grounding for the radios on the workbench was more labor intensi
 </figure>
 
 
-**DEFFICIENCY** At the time of this posting transmission of 70 watts and greater cause the same problems.  Further troublshooting is required.
+**DEFICIENCY** At the time of this posting transmission of 70 watts and greater cause the same problems.  Further troublshooting is required.
 {: .notice--warning}
 
 [1]: http://www.nemarc.org/index.html
