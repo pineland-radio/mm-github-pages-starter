@@ -5,7 +5,6 @@ categories:
   - Equipment
 tags:
   - Equipment
-  - notice
 gallery:
   - url: /assets/images/gallery-006/grounding-00.jpg
     image_path: /assets/images/gallery-006/grounding-00.jpg
