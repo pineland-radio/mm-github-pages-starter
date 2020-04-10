@@ -101,7 +101,7 @@ Gear layed out for inventory:
 {% include gallery id="gallery2" caption="Gear Inspection" %}
 </figure>
 
-The new piece of gear enabling digital modes was the Raspberry Pi.  It is used to control the Yaseau FT-891 and encode/decode the digital signals.  [OH8STN][1] and [KM4ACK's][2] websites and YouTube channels are to thank for the guidance and setting up the Raspbery Pi.  A work in progress the Pi is in a near constant state of rebuilding.  The latest addtion was the Real Time Clock (RTC) and a buck converter is being shipped to the PRC-TL-PF / QTH.
+The new piece of gear enabling digital modes was the Raspberry Pi.  It is used to control the Yaseau FT-891 and encode/decode the digital signals.  [OH8STN][1] and [KM4ACK's][2] websites and YouTube channels are to thank for the guidance and setting up the Raspbery Pi.  As work in progress, the Pi is in a near constant state of rebuilding.  The latest addtion was the Real Time Clock (RTC) and a buck converter is being shipped to the PRC-TL-PF / QTH.
 
 <figure>
 {% include gallery id="gallery3" caption="Raspberry Pi for Digital Modes" %}
