@@ -18,7 +18,7 @@ toc_label: "Disclaimer ToC"
 toc_icon: "cog"
 toc_sticky: "false"      
 ---
-`ANGUS REPORT`
+`ANGUS REPORT `
 ---
 
 This website will serve the Pineland Radio Club.
