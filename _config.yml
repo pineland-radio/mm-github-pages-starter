@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Pineland Radio Club"
   avatar : "/assets/images/radio_tower_graphic-PRC-100x207.png"
-  bio    : "SITREP's from a One-Man-Club"
+  bio    : "[Single-Player Mode]"
   links:
     - label: "Pineland"
       icon: "fas fa-fw fa-map-marker-alt"
